@@ -16,4 +16,4 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 - [Análisis de tráfico](https://github.com/usuario/proyecto5)
 - [Detección de amenazas](https://github.com/usuario/proyecto6)
 
-📫 **Contacto:** Puedes escribirme en [LinkedIn](www.linkedin.com/in/josé-andrés-tapia-gómez-91432a255) o por correo: joseandres1627@gmail.com
+📫 **Contacto:** Puedes escribirme en [LinkedIn](https://www.linkedin.com/in/josé-andrés-tapia-gómez-91432a255) o por correo: joseandres1627@gmail.com
