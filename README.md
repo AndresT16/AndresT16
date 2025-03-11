@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy José 👋
 
-<!--
-**AndresT16/AndresT16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con networking, Linux, seguridad ofensiva y más.
 
-Here are some ideas to get you started:
+## 📂 Categorías de mis proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖧 Networking
+- [Proyecto 1](https://github.com/usuario/proyecto1)
+- [Proyecto 2](https://github.com/usuario/proyecto2)
+
+### 🐧 Linux
+- [Configuración de servidores](https://github.com/usuario/proyecto3)
+- [Automatización de tareas](https://github.com/usuario/proyecto4)
+
+### 🛡️ Seguridad Ofensiva (SOC)
+- [Análisis de tráfico](https://github.com/usuario/proyecto5)
+- [Detección de amenazas](https://github.com/usuario/proyecto6)
+
+📫 **Contacto:** Puedes escribirme en [LinkedIn](https://linkedin.com/in/tuusuario) o por correo: tuemail@ejemplo.com
