@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 ## 📂 Categorías de mis proyectos
 
 ### 🖧 Networking
-- **[Enrutamiento estatico](https://github.com/AndresT16/-Lab-de-Enrutamiento-Est-tico-.git)
+- [Enrutamiento estatico](https://github.com/AndresT16/-Lab-de-Enrutamiento-Est-tico-.git)
 - [Proyecto 2](https://github.com/usuario/proyecto2)
 
 ### 🐧 Linux
