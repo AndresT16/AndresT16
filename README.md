@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 ## 📂 Categorías de mis proyectos
 
 ### 🖧 Networking
-- [Proyecto 1](https://github.com/usuario/proyecto1)
+- **Lab de Enrutamiento Estático**(https://github.com/usuario/proyecto1)
 - [Proyecto 2](https://github.com/usuario/proyecto2)
 
 ### 🐧 Linux
