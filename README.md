@@ -6,7 +6,8 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 
 ### 🖧 Networking
 - [Enrutamiento estatico](https://github.com/AndresT16/-Lab-de-Enrutamiento-Est-tico-.git)
-- [Proyecto 2](https://github.com/usuario/proyecto2)
+- [VLANs](https://github.com/AndresT16/VLANs.git)
+- [Proyecto 3](https)
 
 ### 🐧 Linux
 - [Configuración de servidores](https://github.com/usuario/proyecto3)
