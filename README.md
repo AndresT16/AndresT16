@@ -8,7 +8,8 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 - [Enrutamiento estatico](https://github.com/AndresT16/-Lab-de-Enrutamiento-Est-tico-.git)
 - [VLANs](https://github.com/AndresT16/VLANs.git)
 - [OSPF](https://github.com/AndresT16/OSPF.git)
-- [p4](https)
+- [Proyecto Final CCNA](https://github.com/AndresT16/CCNA-Mega-Lab.git)
+- [p5](http)
 
 ### 🐧 Linux
 - [Configuración de servidores](https://github.com/usuario/proyecto3)
