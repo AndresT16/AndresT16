@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 - [p5](http)
 
 ### 🐧 Linux
-- [Configuración de servidores](https://github.com/usuario/proyecto3)
+- [Actualizador de Distro](https://github.com/AndresT16/Actualizador_Linux.git)
 - [Automatización de tareas](https://github.com/usuario/proyecto4)
 
 ### 🛡️ Seguridad Ofensiva (SOC)
