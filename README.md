@@ -14,7 +14,9 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos relacionados con 
 ### 🐧 Linux
 - [Actualizador de Distro](https://github.com/AndresT16/Actualizador_Linux.git)
 - [Inspector de uso de disco](https://github.com/AndresT16/Inspector_De_Disco.git)
+- [Verificador de Red y Puertos](https://github.com/AndresT16/Verificador_Red.git)
 - [Automatización de tareas](https://github.com/usuario/proyecto4)
+  
 
 ### 🛡️ Seguridad Ofensiva (SOC)
 - [Análisis de tráfico](https://github.com/usuario/proyecto5)
